@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "ts-node": "^10.7.0",
     "typescript": "^3.9.5"
   }
 }
