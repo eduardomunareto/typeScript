@@ -3,5 +3,5 @@ function showMessage(msg: any) {
 }
 
 console.log(showMessage([1, 2, 3]));
-console.log(showMessage("oi"));
+console.log(showMessage('oi'));
 console.log(showMessage(35));
