@@ -1,2 +1,2 @@
-const nome = 'Eduardo';
-const sobrenome = 'Eduardo';
+const nome = "Eduardo";
+const sobrenome = "Eduardo";
